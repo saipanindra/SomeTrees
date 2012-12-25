@@ -18,11 +18,11 @@ One of the files you will find is the dictionary.java
 
 There are two modes in which it operates.
  
-1) java dictionary �r <hashtablesize> <bTreeOrder>) 
+1) java dictionary -r <hashtablesize> <bTreeOrder>) 
  // give the hash table size and bTreeOrder and wait to see the comparision of average performance of the three trees(AVL,BTree,RedBlack)
     for the insert and search operations.
 
-2) java dictionary �u <filename> 
+2) java dictionary -u <filename> 
 //  give the filename of file which has the inputs for the trees to operate on.
 // There is a sample file inputKeysandValues you will find .
 // Input format is ..
